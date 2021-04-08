@@ -9,7 +9,7 @@ import Portfolio from "./pages/portfolio";
 function App() {
   return (
     <Router>
-      <div>
+      <div className = "bg-dark text-white">
         <Header/>
         <Switch>
           <Route exact path="/" component={Home} />

@@ -1,11 +1,13 @@
 import React  from "react";
 import {Form, Row, Col, Card, Button, Container} from 'react-bootstrap';
+import "./style.css"
 
 function Contact() {
     return (
       <>
-      <Container>
-      <Card bg="warning"className="mb-2">
+      <Container className="container" >
+      <Card bg="danger"className="mb-2 border border-light" >
+        <p>Fill out the section below to contact me!</p>
       <Form>
         <Row>
             <Col>
