@@ -7,7 +7,7 @@ function PCard() {
   return (
     <>
     <Card bg="info"className="mb-2">
-    <Card.Img variant="top" src="../imgs/code-quiz.png" />
+    <Card.Img variant="top" src="./imgs/code-quiz.png"/>
     <Card.Body>
       <Card.Text>
         I made this project to test your coding knowledge! Check it out.
@@ -18,7 +18,7 @@ function PCard() {
     <br />
 
     <Card bg="warning"className="mb-2">
-    <Card.Img variant="top" src="../imgs/book-worm.png" />
+    <Card.Img variant="top" src="./imgs/book-worm.png" />
     <Card.Body>
       <Card.Text>
         My team and I created a readers dream site! It tracks your current books progress, lets you creat book shelves and 
@@ -30,7 +30,7 @@ function PCard() {
     <br />
 
     <Card bg="success"className="mb-2">
-    <Card.Img variant="top" src="../imgs/day-scheduler.png" />
+    <Card.Img variant="top" src="../imgs/day-scheduler.png" alt = "" />
     <Card.Body>
       <Card.Text>
         Do you have a crazy schedule? This app helps you keep track of your appointments and the current time of day!
