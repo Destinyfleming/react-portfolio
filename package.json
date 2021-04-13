@@ -1,6 +1,6 @@
 {
+  "homepage": "https://destinyfleming.github.io/react-portfolio.github.io/",
   "name": "portfolio",
-  "homepage": "https://destinyfleming.github.io/react-portfolio/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
