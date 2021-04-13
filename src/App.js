@@ -8,7 +8,7 @@ import Portfolio from "./pages/portfolio";
 
 function App() {
   return (
-    <Router>
+      <Router basename={process.env.PUBLIC_URL}>
       <div className = "bg-dark text-white">
         <Header/>
         <Switch>
