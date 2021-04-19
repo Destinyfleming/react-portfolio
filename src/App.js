@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import { BrowserRouter as HashRouter, Route, Switch } from "react-router-dom";
 import Footer from "./components/footer";
 import Header from "./components/header"
 import Contact from "./pages/contact"
@@ -8,18 +8,14 @@ import Portfolio from "./pages/portfolio";
 
 function App() {
   return (
-      <Router basename={process.env.PUBLIC_URL}>
-      <div className = "bg-dark text-white">
+      <>
         <Header/>
-        <Switch>
-          <Route exact path="/" component={Home} />
-          <Route exact path="/contact" component={Contact} />
-          <Route exact path="/portfolio" component={Portfolio} />
-        </Switch>
+        <Home/>
+        <Contact/>
+        <Portfolio/>
         <Footer/>
-      </div>
-    </Router>
+      </>
   );
 }
-//<Route component={NoMatch} />
+
 export default App;
