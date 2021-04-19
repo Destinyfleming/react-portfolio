@@ -5,8 +5,8 @@ import "./style.css"
 function Contact() {
     return (
       <>
-      <Container className="container" >
-      <Card bg="danger"className="mb-2 border border-light" >
+      <Container className="container" id= "contact">
+      <Card bg="secondary"className="mb-2 border border-light" >
         <p>Fill out the section below to contact me!</p>
       <Form>
         <Row>

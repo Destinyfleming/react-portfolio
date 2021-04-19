@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter as HashRouter, Route, Switch } from "react-router-dom";
+import "./app.css";
 import Footer from "./components/footer";
 import Header from "./components/header"
 import Contact from "./pages/contact"
@@ -11,8 +11,8 @@ function App() {
       <>
         <Header/>
         <Home/>
-        <Contact/>
         <Portfolio/>
+        <Contact/>
         <Footer/>
       </>
   );

@@ -5,15 +5,13 @@ import "./style.css"
 
 function Portfolio(){
     return(
-    <>
+    <div id="portfolio">
     <Container >
         
             <h1> Here you can take a look at some of the projects I have recently worked on!</h1>
             <PCard/>
-            <p>Hope you enjoyed "(:"</p>
-        
     </Container>
-    </>
+    </div>
     )
 };
 
