@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.536a5788.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.a911d6e2.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.a911d6e2.chunk.js.map",
+    "main.css": "/react-portfolio/static/css/main.3e1b5fe4.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.eb918489.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.eb918489.chunk.js.map",
     "runtime-main.js": "/react-portfolio/static/js/runtime-main.f00a47a1.js",
     "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.f00a47a1.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/react-portfolio/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.3b456968.chunk.js": "/react-portfolio/static/js/2.3b456968.chunk.js",
-    "static/js/2.3b456968.chunk.js.map": "/react-portfolio/static/js/2.3b456968.chunk.js.map",
+    "static/js/2.78140d14.chunk.js": "/react-portfolio/static/js/2.78140d14.chunk.js",
+    "static/js/2.78140d14.chunk.js.map": "/react-portfolio/static/js/2.78140d14.chunk.js.map",
     "index.html": "/react-portfolio/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/react-portfolio/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.536a5788.chunk.css.map": "/react-portfolio/static/css/main.536a5788.chunk.css.map",
-    "static/js/2.3b456968.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.3b456968.chunk.js.LICENSE.txt"
+    "static/css/main.3e1b5fe4.chunk.css.map": "/react-portfolio/static/css/main.3e1b5fe4.chunk.css.map",
+    "static/js/2.78140d14.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.78140d14.chunk.js.LICENSE.txt",
+    "static/media/book-worm.852ccc6f.png": "/react-portfolio/static/media/book-worm.852ccc6f.png",
+    "static/media/code-quiz.e7ca241e.png": "/react-portfolio/static/media/code-quiz.e7ca241e.png",
+    "static/media/day-scheduler.7684b8d1.png": "/react-portfolio/static/media/day-scheduler.7684b8d1.png",
+    "static/media/interactive-planner.104e2530.png": "/react-portfolio/static/media/interactive-planner.104e2530.png"
   },
   "entrypoints": [
     "static/js/runtime-main.f00a47a1.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.3b456968.chunk.js",
-    "static/css/main.536a5788.chunk.css",
-    "static/js/main.a911d6e2.chunk.js"
+    "static/js/2.78140d14.chunk.js",
+    "static/css/main.3e1b5fe4.chunk.css",
+    "static/js/main.eb918489.chunk.js"
   ]
 }
